@@ -13,5 +13,7 @@ public class Hello {
 		System.out.println("world");
 		System.out.println("你好");
 		System.out.println("2222222");
+		System.out.println("1111111");
+
 	}
 }
